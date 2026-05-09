@@ -13,4 +13,4 @@ The original owner will merge your changes, adding them to the code and combinin
 
 Here is the image that we will be creating. Decide with your classmates which color triangles you will produce.
 
-<img width="599" height="430" alt="image" src="https://github.com/user-attachments/assets/65f69314-838d-4fbd-800f-c5991bab4b26" />
+<img width="598" height="399" alt="image" src="https://github.com/user-attachments/assets/62579ac0-eeb8-41f6-a8df-93358c3ac6da" />
